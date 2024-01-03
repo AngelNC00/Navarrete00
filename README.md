@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @Navarrete00
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 My name @Navarrete00
+- 👀 I am interested in GNU/Linux systems
+- 🌱 I am currently learning S.O
+- 💞️ I am looking to collaborate on whatever is interesting
+- 📫 How to contact me 5520342539
 
 <!---
-Navarrete00/Navarrete00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+Navarrete00/Navarrete00 is a ✨ Brilliant ✨ repository
 --->
